@@ -11,5 +11,5 @@ Research to study how to train and measure performance for a package detection
 
 
 # Resources
-![Data Source 1](https://universe.roboflow.com/ammar-s/packages-v4)
-![Data Source 2](https://universe.roboflow.com/ammar-s/packages-detection)
+[Data Source 1](https://universe.roboflow.com/ammar-s/packages-v4)
+[Data Source 2](https://universe.roboflow.com/ammar-s/packages-detection)
