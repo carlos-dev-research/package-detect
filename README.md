@@ -7,7 +7,8 @@ Research to study how to train and measure performance for a package detection
 2. Choose different models
 3. Prepare code for training
 4. Benchmark different results
-5. Make Conclusions
+5. Make Conclusions and choose model
+6. Deploy
 
 
 # Resources
