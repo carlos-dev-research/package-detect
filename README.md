@@ -16,21 +16,18 @@ The focus is on understanding model capabilities and performance differences. Th
    Identify and prepare datasets suitable for package detection.
 
 2. **Model Selection**  
-   Compare multiple object detection architectures to evaluate strengths and weaknesses.
+   Research for real time object detection models.
 
-3. **Training Pipeline**  
-   Implement training, validation, preprocessing, and augmentation workflows.
+3. **Fine tunning Pipeline**  
+   Train model using current dataset.
 
 4. **Evaluation**  
    Benchmark models using metrics such as precision, recall, mAP, and inference speed.
 
-5. **Analysis**  
-   Compare results to select the most effective model and understand trade-offs.
-
-6. **Deployment**  
+5. **Deployment**  
    Prepare the model for experimentation and future continuous tracking applications.
 
 ## Resources
+- [Dataset 2](https://universe.roboflow.com/ammar-s/packages-v4)
+- [Training Guide](https://rfdetr.roboflow.com/develop/learn/train/)
 
-- [Dataset 1](https://universe.roboflow.com/ammar-s/packages-v4)  
-- [Dataset 2](https://universe.roboflow.com/ammar-s/packages-detection)
