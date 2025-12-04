@@ -28,6 +28,6 @@ The focus is on understanding model capabilities and performance differences. Th
    Prepare the model for experimentation and future continuous tracking applications.
 
 ## Resources
-- [Dataset 2](https://universe.roboflow.com/ammar-s/packages-v4)
+- [Dataset](https://universe.roboflow.com/ammar-s/packages-v4)
 - [Training Guide](https://rfdetr.roboflow.com/develop/learn/train/)
 
